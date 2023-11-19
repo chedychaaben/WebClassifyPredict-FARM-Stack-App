@@ -1,0 +1,19 @@
+
+.icon{
+    position: absolute;
+    right: 10px;
+    top: 4px;
+}
+.spinnerDiv{
+    color:#E0004D ;
+}
+.uColor{
+    color:#E0004D ;
+}
+.search{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}

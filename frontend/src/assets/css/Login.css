@@ -1,0 +1,45 @@
+.loginPage{
+    /* background-color: #86BC26; */
+    background-color: #f8f9fa;
+    height: 100vh;
+}
+.loginCont{
+    background-color: #f8f9fa;
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    padding: 1%;
+    border:1px solide rgba(5, 51, 92, 0.158);
+    border-radius: 3px;
+    border-width: 3px;
+    
+}
+
+.title{
+    color:#003D42;
+    
+}
+#titleCnx{
+    font-weight: 700;
+    font-size: 60px;
+}
+.btn-primary , .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    font-size: 18px;
+    line-height: 22px;
+    padding: 12px 20px;
+    border-radius: 50px;
+    background: #86BC26;
+    border: 1px solid #86BC26;
+}
+.logo{
+    background-color: white;
+    height: 100%;
+   
+    
+    
+}
+.col1{
+    margin-left: 50px;
+}
